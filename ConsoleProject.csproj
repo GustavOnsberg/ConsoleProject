@@ -45,8 +45,11 @@
   <ItemGroup>
     <Compile Include="AdvancedCalculator.cs" />
     <Compile Include="BasicCalulator.cs" />
+    <Compile Include="FullTree.cs" />
+    <Compile Include="Print.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicCommands.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

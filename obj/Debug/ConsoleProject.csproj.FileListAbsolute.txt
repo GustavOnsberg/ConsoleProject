@@ -4,3 +4,9 @@ c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\Conso
 c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
 c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.exe
 c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.pdb
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\obj\Debug\ConsoleProject.exe
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\obj\Debug\ConsoleProject.pdb
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\bin\Debug\ConsoleProject.exe
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\bin\Debug\ConsoleProject.pdb
+C:\Users\gusta\OneDrive\Dokumenter\GitHub\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
