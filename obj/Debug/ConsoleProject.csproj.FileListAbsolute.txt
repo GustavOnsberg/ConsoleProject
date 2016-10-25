@@ -1,0 +1,6 @@
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.pdb
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.exe
+c:\users\fucking win8\documents\visual studio 2015\Projects\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.pdb
